@@ -1,7 +1,7 @@
 # DesignEngineeringProject
 Pre-Final Year (Design Engineering Project 2022/2023).
 
-# Description : 
+Description : 
 ---------------------------------------------------------------------------------------------------------
 
 A Mobile Application for general Public to Submit their complains regarding Streetlights.
@@ -12,7 +12,7 @@ At present no app are availabe feedbacks for not working service streetlight.No 
 Features :
 ---------------------------------------------------------------------------------------------------------
 
---> This application suggestion for power interruption prone locations and unsafe location with its photo image and Geo-location through Mobile App.
+--> This application suggestion for power interruption prone locations and unsafe location with its photo     image and Geo-location through Mobile App.
 
 --> Utility wiring is open and unsafe can be inform to authority by mobile app.
 
